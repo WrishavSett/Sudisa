@@ -1,0 +1,1061 @@
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects HTTP/11" 201 4027
+root \u2192 INFO: Project status code: 201
+root \u2192 INFO: Project:Paint Shop created succesfully
+root \u2192 INFO: Project ID:48 created succesfully
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2415.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2440.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2441.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2443.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2444.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2445.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2646.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2647.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2648.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2650.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2777.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2779.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_104431_2998.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2528.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2529.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2530.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2531.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2532.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2533.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2912.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2913.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2914.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2915.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2924.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2925.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2926.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2927.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2970.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2971.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2972.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_142435_2973.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0058.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0059.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0060.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0061.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0063.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0064.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0087.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0088.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0101.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0151.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0152.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0153.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0342.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0345.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0443.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0444.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0528.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241121_144435_0530.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_0912.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_0913.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_0914.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_0915.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_0938.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_0939.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_0940.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_0941.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1076.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1077.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1078.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1079.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1490.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1491.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1492.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1493.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1494.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_1768.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_1769.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_1770.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_1771.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_1783.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_1939.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0926.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0927.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0928.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0929.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0930.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0931.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0932.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0933.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0934.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0935.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0936.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0937.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0938.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0939.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0940.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0941.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0942.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0943.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0944.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0945.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0980.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0981.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0982.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0983.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_1152.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_1153.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_1154.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_1155.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_163912_2362.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_163912_2363.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_163912_2364.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_163912_2365.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_163912_2366.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0074.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0075.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0378.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0531.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0533.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0534.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0535.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0536.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0798.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0799.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0800.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0801.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0804.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0805.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0806.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0807.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0812.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0813.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0882.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_0883.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_1196.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_1197.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_1207.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_1231.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_1574.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_1575.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_1576.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_1577.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2108.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2109.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2110.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2111.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2450.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2451.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2452.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2453.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2826.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2827.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2829.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2831.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2833.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2835.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2879.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2880.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2881.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2882.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2997.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2998.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_2999.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_165912_3000.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0104.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0105.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0259.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0260.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0261.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0262.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0263.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0347.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0349.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0375.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0377.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0486.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0488.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0489.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0492.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0493.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0500.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1710.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1711.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1712.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_1713.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_2941.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_2942.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_2943.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_141909_2945.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0342.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0343.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0344.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0345.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0346.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0347.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0372.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0373.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0374.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0375.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0376.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0377.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0450.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0451.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0452.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0453.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0502.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0503.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0504.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0505.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0526.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0527.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0528.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0529.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0530.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0566.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0567.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0568.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0569.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0736.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0737.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0738.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0739.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0740.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0772.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0773.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0775.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0828.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0829.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0830.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0831.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0998.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_143909_0999.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_2938.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_2939.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_2940.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_2941.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0016.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0017.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0018.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0019.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0052.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0053.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0074.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0075.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0076.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0077.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0148.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0149.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0164.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0165.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0208.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0209.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0210.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0211.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0568.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0569.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0570.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_0571.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2138.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2139.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2140.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2141.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2214.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2215.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2216.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2217.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2240.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2241.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2242.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2243.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2296.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2297.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2392.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2393.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2602.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2603.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2604.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2812.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2813.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2814.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_151910_2815.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0000.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0001.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0002.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0012.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0016.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0017.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0022.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0024.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0025.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0028.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0040.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0062.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0063.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0064.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0065.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0066.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0067.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241121_120433_0207.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_164153_0073.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0000.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0001.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0002.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0003.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0072.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0073.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0074.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0075.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0076.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0077.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0202.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0203.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0204.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_170050_0205.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_174051_0002.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_174051_0003.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_174051_0004.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241120_174051_0005.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0024.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0025.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0026.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0027.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0046.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0047.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0048.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0049.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0092.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0123.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0124.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0125.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0143.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0144.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0203.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0418.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0419.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0420.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0812.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0813.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0814.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_155911_0815.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0014.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0015.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0016.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0017.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0018.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0019.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 199
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0342.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0343.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0344.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0345.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0400.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0401.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 201
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0402.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0403.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0454.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0455.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0456.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0457.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0458.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0459.jpg
+urllib3.connectionpool \u2192 DEBUG: Starting new HTTP connection (1): localhost:8080
+urllib3.connectionpool \u2192 DEBUG: http://localhost:8080 "POST /api/projects/48/import?commit_to_project=true HTTP/11" 201 200
+root \u2192 INFO: Successfully uploaded recording_20241125_161911_0538.jpg
